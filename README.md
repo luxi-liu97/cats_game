@@ -1,4 +1,4 @@
-# Cats Game
+# "Cats" - Typing Game
 A multiplayer typing game with a built-in autocorrect function
 
 To play the game with the GUI, run from the terminal: 
